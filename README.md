@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello 👋, I'm Hela  
 
-<!--
-**HelaHamza/HelaHamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **DevOps & Cloud Enthusiast** | 🤖 **AI Explorer** 
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🌱 I’m currently learning **DevOps, Cloud, and AI**  
+- 🤝 I’m looking to collaborate on **DevOps & AI projects**  
+- 📂 Check my work: [My GitHub Portfolio](https://github.com/hela-hamza)  
+- 💬 Ask me about **Docker, Kubernetes, Jenkins, GitHub Actions, Python, Flask**  
+- 📫 Reach me at: **helahamza2020@gmail.com**  
+
+---
+
+## 🌐 Connect with Me
+www.linkedin.com/in/hela-hamza-422b40259
+---
+
+## 🛠️ My Tech Stack
+- **Programming & Scripting** → Python, Bash  
+- **Frontend Development** → React, JavaScript, TypeScript  
+- **Backend & Databases** → Node.js, Flask, MongoDB, MySQL  
+- **DevOps & Cloud** → Docker, Kubernetes, Ansible, Terraform, AWS, Azure  
+- **Monitoring** → Prometheus, Grafana  
+
+---
