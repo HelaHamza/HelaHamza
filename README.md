@@ -90,15 +90,15 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hela-hamza&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hela-hamza&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=helahamza&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helahamza&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hela-hamza&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helahamza&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
-[![Hela's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hela-hamza&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hela's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=helahamza&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
