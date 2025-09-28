@@ -5,6 +5,13 @@
 💻 **DevOps & Cloud Enthusiast** | 🤖 **AI Explorer**
 
 <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300"/>
+<div align="center">
+
+![Vues de profil
+](https://komarev.com/ghpvc/?username=hela-hamza&label=Profile%20views&color=0e75b6&style=flat)
+
+</div>
+
 
 </div>
 
