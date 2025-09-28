@@ -18,10 +18,10 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **DevOps, Cloud & AI**  
+- 🌱 Currently learning **DevOps, DevSecOps & AI**  
 - 🤝 Open to collaborate on **DevOps & AI projects**  
 - 📂 Explore my work: [GitHub Portfolio](https://github.com/hela-hamza)  
-- 💬 Ask me about: **Docker, Kubernetes, Jenkins, GitHub Actions, Python, Flask**  
+- 💬 Ask me about: **Docker, Jenkins, GitHub Actions, Python, Flask**  
 - 📫 Contact me: **helahamza2020@gmail.com**  
 
 ---
@@ -69,7 +69,6 @@
   <summary>☁️ DevOps & Cloud</summary>
   <p align="left">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
     <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
     <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -87,18 +86,27 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Stats & Activity  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helahamza&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helahamza&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helahamza&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+  <!-- Stats et Langages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=helahamza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+       alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helahamza&layout=compact&theme=tokyonight&hide_border=true" 
+       alt="Top Languages" height="180"/>
 
-[![Hela's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=helahamza&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helahamza&theme=tokyonight&hide_border=true" 
+       alt="GitHub Streak" height="180"/>
+
+  <!-- Activity Graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=helahamza&theme=tokyo-night&hide_border=true&bg_color=1a1b27&line=70a5fd&point=70a5fd&area=true" 
+         alt="Hela's GitHub Activity Graph"/>
+  </a>
+
+</div>
 
 
 ---
