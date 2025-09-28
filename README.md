@@ -1,8 +1,12 @@
+<div align="center">
+
 # 👋 Hello, I'm Hela  
 
 💻 **DevOps & Cloud Enthusiast** | 🤖 **AI Explorer**
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250"/>
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300"/>
+
+</div>
 
 ---
 
