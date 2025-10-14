@@ -21,7 +21,7 @@
 - 🌱 Currently learning **DevOps, DevSecOps & AI**  
 - 🤝 Open to collaborate on **DevOps & AI projects**  
 - 📂 Explore my work: [GitHub Portfolio](https://halahamza.netlify.app/)  
-- 💬 Ask me about: **Docker, Jenkins, GitHub Actions, Python, Flask**  
+- 💬 Ask me about: **Docker, GitHub Actions, Python, Flask**  
 - 📫 Contact me: **helahamza2020@gmail.com**  
 
 ---
