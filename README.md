@@ -142,7 +142,7 @@
        alt="GitHub Streak" height="180"/>
 
   <!-- Activity Graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/HelaHamza/HelaHamza">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=helahamza&theme=tokyo-night&hide_border=true&bg_color=1a1b27&line=70a5fd&point=70a5fd&area=true" 
          alt="Hela's GitHub Activity Graph"/>
   </a>
